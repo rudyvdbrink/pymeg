@@ -1,6 +1,6 @@
 # pymeg
 
-This module contains a set of scripts to make anakysis of MEG experiments @UKE Hamburg easier.
+This module contains a set of scripts to perform analysis of MEG experiments @UKE Hamburg easier.
 
 The main components are:
  1. preprocessing: 
